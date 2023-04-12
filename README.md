@@ -1,9 +1,9 @@
-# JointID-Baseline-DR
+# Demand-side Price-responsive Flexibility and Baseline Estimation through End-to-end Learning
 
 This repo contains the code for the "Demand-side Price-responsive Flexibility and Baseline Estimation through End-to-end Learning", https://arxiv.org/pdf/2109.00741.pdf
 
 
-![Illustration of the proposed end-to-end joint demand response identification and baseline demand estimation framework.](diagram.png)
+![Illustration of the proposed end-to-end joint demand response identification and baseline demand estimation framework.](diagram.png width=200)
 
 
 Fig 1 visualizes the proposed end-to-end joint baseline demand estimation and price-response model identification framework.
